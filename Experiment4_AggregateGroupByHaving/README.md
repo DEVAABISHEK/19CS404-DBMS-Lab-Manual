@@ -38,15 +38,19 @@ HAVING condition;
 
 **Question 1**
 --
--- Paste Question 1 here
+<img width="822" height="373" alt="image" src="https://github.com/user-attachments/assets/e6a8bb5f-d594-48d7-a5f8-d71390fedfff" />
+
 
 ```sql
--- Paste your SQL code below for Question 1
+select name,max(income)
+from employee
+where city = 'California';
 ```
 
 **Output:**
 
-![Output1](output.png)
+![Uploading image.png…]()
+
 
 **Question 2**
 ---

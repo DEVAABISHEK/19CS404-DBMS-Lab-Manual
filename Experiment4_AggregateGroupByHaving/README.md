@@ -49,7 +49,8 @@ where city = 'California';
 
 **Output:**
 
-![Uploading image.png…]()
+<img width="623" height="245" alt="image" src="https://github.com/user-attachments/assets/36bd9e2a-0a9e-4eee-b130-6839d90c00aa" />
+
 
 
 **Question 2**

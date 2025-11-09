@@ -226,8 +226,7 @@ SELECT * FROM CUSTOMERS WHERE SALARY>4500;
 
 <img width="1293" height="402" alt="image" src="https://github.com/user-attachments/assets/98429cb5-bc2f-46cc-a473-01eea2996f8d" />
 
-## RESULT
-Thus, the SQL queries to implement aggregate functions, GROUP BY, and HAVING clause have been executed successfully.
+
 
 
 ## RESULT
